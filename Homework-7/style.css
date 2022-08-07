@@ -1,0 +1,12 @@
+ДЗ№1
+
+#header {
+      display: block;
+      height: 550px;
+      background:url('img/Photo.1.jpg') no-repeat center bottom;
+    }
+
+    #header.bg2 {
+      background-image: url('img/Photo.2.jpg');
+    }
+    
