@@ -8,7 +8,7 @@
 
 
 
-// ДЗ№1 вариант 2 посмотреть hw.html и StyleSheet.css
+// ДЗ№1 вариант 2 посмотреть hw.html и style.css
 
 
 
